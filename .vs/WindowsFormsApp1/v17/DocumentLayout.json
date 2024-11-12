@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 2\\form26gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 2\\form26gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 2\\form26gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 2\\form26gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 2\\form24gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 2\\form24gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 2\\form24gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 2\\form24gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 2\\form22gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 2\\form22gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 2\\form22gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 2\\form22gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 2\\form21gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 2\\form21gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 2\\form21gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 2\\form21gambar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\form child\\formdokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form child\\formdokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\form child\\formdokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form child\\formdokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 1\\form6print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 1\\form6print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 1\\form6print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 1\\form6print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 1\\form4print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 1\\form4print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 1\\form1print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 1\\form1print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 1\\form4print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 1\\form4print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 1\\form1print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 1\\form1print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\endoscopy jadi\\1366\\use  flowlayoutpanel1\\fhd 1366x768_newest - flowlayoutpanel2\\windowsformsapp1 - tampilan kanan [3] - format 1,2 logokotak\\windowsformsapp1\\form child\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form child\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\form child\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form child\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\form utama\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form utama\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\form utama\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form utama\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\format 1\\form4print.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\format 1\\form4print.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\windowsformsapp1\\form child\\formdokter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAA1561-358F-4913-9D4B-D164AD428171}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form child\\formdokter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form4Print.Designer.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form4Print.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 1\\Form4Print.Designer.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form4Print.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 1\\Form4Print.Designer.cs",
+              "ViewState": "AQIAAMABAAAAAAAAAAAAAMsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:59:52.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form26Gambar.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form26Gambar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 2\\Form26Gambar.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form26Gambar.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 2\\Form26Gambar.cs",
+              "ViewState": "AQIAAGQEAAAAAAAAAAAUwHcEAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:24:02.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form24Gambar.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form24Gambar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 2\\Form24Gambar.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form24Gambar.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 2\\Form24Gambar.cs",
+              "ViewState": "AQIAAMUFAAAAAAAAAAAUwOwFAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:23:32.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form22Gambar.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form22Gambar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 2\\Form22Gambar.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form22Gambar.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 2\\Form22Gambar.cs",
+              "ViewState": "AQIAABoEAAAAAAAAAAAUwEkEAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:23:13.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form6Print.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form6Print.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 1\\Form6Print.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form6Print.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 1\\Form6Print.cs",
+              "ViewState": "AQIAACQGAAAAAAAAAAAIwDkGAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:03:00.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6Print.cs [Design]",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form6Print.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 1\\Form6Print.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form6Print.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 1\\Form6Print.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:02:59.49Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1Print.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form1Print.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 1\\Form1Print.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form1Print.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 1\\Form1Print.cs",
+              "ViewState": "AQIAAJAFAAAAAAAAAAAcwKYFAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:32:53.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormDokter.Designer.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Child\\FormDokter.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form Child\\FormDokter.Designer.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Child\\FormDokter.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form Child\\FormDokter.Designer.cs",
+              "ViewState": "AQIAAJABAAAAAAAAAAAQwKcBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:22:21.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormUser.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Child\\FormUser.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form Child\\FormUser.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Child\\FormUser.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form Child\\FormUser.cs",
+              "ViewState": "AQIAALUDAAAAAAAAAAAUwMUDAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:45:39.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormUser.cs [Design]",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Child\\FormUser.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form Child\\FormUser.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Child\\FormUser.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form Child\\FormUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:45:37.385Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDokter.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Child\\FormDokter.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form Child\\FormDokter.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Child\\FormDokter.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form Child\\FormDokter.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwD4DAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:43:45.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDokter.cs [Design]",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Child\\FormDokter.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form Child\\FormDokter.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Child\\FormDokter.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form Child\\FormDokter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:43:39.404Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form4Print.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form4Print.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 1\\Form4Print.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form4Print.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 1\\Form4Print.cs",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAIwEkBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:41:09.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form4Print.cs [Design]",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form4Print.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 1\\Form4Print.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form4Print.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 1\\Form4Print.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:41:08.553Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form21Gambar.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form21Gambar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 2\\Form21Gambar.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form21Gambar.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 2\\Form21Gambar.cs",
+              "ViewState": "AQIAAMsCAAAAAAAAAAAswBMEAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:27:52.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1Print.cs [Design]",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form1Print.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 1\\Form1Print.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 1\\Form1Print.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 1\\Form1Print.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:27:50.024Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form26Gambar.cs [Design]",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form26Gambar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 2\\Form26Gambar.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form26Gambar.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 2\\Form26Gambar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:17:13.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form24Gambar.cs [Design]",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form24Gambar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 2\\Form24Gambar.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form24Gambar.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 2\\Form24Gambar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:53:30.342Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form22Gambar.cs [Design]",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form22Gambar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 2\\Form22Gambar.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form22Gambar.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 2\\Form22Gambar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:48:42.199Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form21Gambar.cs [Design]",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form21Gambar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Format 2\\Form21Gambar.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Format 2\\Form21Gambar.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Format 2\\Form21Gambar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:18:20.536Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormUtama.cs",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Utama\\FormUtama.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form Utama\\FormUtama.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Utama\\FormUtama.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form Utama\\FormUtama.cs",
+              "ViewState": "AQIAANUKAAAAAAAAAAAiwAYLAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:35:32.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormUtama.cs [Design]",
+              "DocumentMoniker": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Utama\\FormUtama.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form Utama\\FormUtama.cs",
+              "ToolTip": "D:\\ENDOSCOPY JADI\\1366\\use  flowlayoutPanel1\\FHD 1366X768_newest - flowlayoutPanel2\\WindowsFormsApp1 - Tampilan Kanan [3] - Format 1,2 LogoKotak\\WindowsFormsApp1\\Form Utama\\FormUtama.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form Utama\\FormUtama.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:35:29.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
