@@ -1,0 +1,1 @@
+menggunakan resolusi 1366x768
